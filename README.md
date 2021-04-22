@@ -1,5 +1,4 @@
 # Christmas Tree LED Reactive
-# Sound Reactive Infinity Table
 
 This project involves:
 * 
