@@ -6,12 +6,16 @@ This project involves:
 * Potentiometer
 * Sound Detector
 * Jumper Wires
+* Resistors
 * 25 µF Capacitor
 * Toggle Switch or Slide Switch
 
 
 ![alt text](images/xmas-tree.png)
 
+# Schematic (Schematic needs to be updated, do not replicate)
+
+![alt text](images/schematic.png)
 
 ## Description
 
