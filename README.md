@@ -63,7 +63,7 @@ Camille Owens
 
 [comment]: <> (    * Initial Release)
 
-## Acknowledgments
+## Sources
 
 [comment]: <> (Inspiration, code snippets, etc.)
 * [sparkfun](https://www.sparkfun.com/)
