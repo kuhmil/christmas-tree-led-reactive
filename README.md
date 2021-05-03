@@ -58,6 +58,6 @@ Camille Owens
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+[comment]: <> (Inspiration, code snippets, etc.)
 * [sparkfun](https://www.sparkfun.com/)
 
