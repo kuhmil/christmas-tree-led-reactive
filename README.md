@@ -14,37 +14,47 @@ Depending one what frequecies were picked up a cetain part of the tree lit up. I
 The first tier would pick up on the rartist singing the lyrics, the second ties would react when lighter beats played. 
 The third tier would light up with heavier beats.
 
-## Getting Started
+[comment]: <> (## Getting Started)
 
-### Dependencies
+[comment]: <> (### Dependencies)
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+[comment]: <> (* Describe any prerequisites, libraries, OS version, etc., needed before installing program.)
 
-### Installing
+[comment]: <> (* ex. Windows 10)
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+[comment]: <> (### Installing)
 
-### Executing program
+[comment]: <> (* How/where to download your program)
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+[comment]: <> (* Any modifications needed to be made to files/folders)
+
+[comment]: <> (### Executing program)
+
+[comment]: <> (* How to run the program)
+
+[comment]: <> (* Step-by-step bullets)
+
+[comment]: <> (```)
+
+[comment]: <> (code blocks for commands)
+
+[comment]: <> (```)
 
 ## Authors
 
 Camille Owens
 
-## Version History
+[comment]: <> (## Version History)
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+[comment]: <> (* 0.2)
+
+[comment]: <> (    * Various bug fixes and optimizations)
+
+[comment]: <> (    * See [commit change]&#40;&#41; or See [release history]&#40;&#41;)
+
+[comment]: <> (* 0.1)
+
+[comment]: <> (    * Initial Release)
 
 ## Acknowledgments
 
