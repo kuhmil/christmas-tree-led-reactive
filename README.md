@@ -13,7 +13,7 @@ This project involves:
 
 ![alt text](images/xmas-tree.png)
 
-# Schematic (Schematic needs to be updated, do not replicate)
+# Schematic (Needs to be updated, do not replicate)
 
 ![alt text](images/schematic.png)
 
