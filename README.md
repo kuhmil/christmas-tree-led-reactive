@@ -1,7 +1,8 @@
 # Christmas Tree LED Reactive
 
-This project involves:
-* 
+[comment]: <> (This project involves:)
+
+[comment]: <> (* )
 
 ![alt text](images/xmas-tree.png)
 
