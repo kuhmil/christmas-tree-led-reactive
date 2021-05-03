@@ -1,8 +1,14 @@
 # Christmas Tree LED Reactive
 
-[comment]: <> (This project involves:)
+This project involves:
+* An Arduino
+* WS2811 RGB LED Pixels
+* Potentiometer
+* Sound Detector
+* Jumper Wires
+* 25 µF Capacitor
+* Toggle Switch or Slide Switch
 
-[comment]: <> (* )
 
 ![alt text](images/xmas-tree.png)
 
